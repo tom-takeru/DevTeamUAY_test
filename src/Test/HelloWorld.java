@@ -1,6 +1,6 @@
 package Test;
 
 public class HelloWorld {
-	int a = 111;
+	int a = 1111;
 }
 
